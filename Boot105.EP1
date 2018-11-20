@@ -1,0 +1,26 @@
+************* EParray[ 1 ]: TestFile *********
+1             Aantal tijdsonafhankelijke tabellen: (=xInDep)
+0             ***table 0: table-type 0 (no interpolation) 
+1 5           UITVOERTIJDSTIPPEN
+1 2 3 4 5
+5             Aantal tijdsafhankelijk (xy)-tabellen (=xDep)******************
+0             table 0: table-type 0 (no interpolation)
+1             Natuurlijke grondwateraanvulling (m/jaar)
+0 0.3
+0             table 1: table-type 0 (no interpolation)
+1             Atmosferische depositie (kg Cl/ha/jaar)
+0 20 
+0             table 2: table-type 0 (no interpolation)
+1             Landgebruik
+0 1
+0             table 3: table-type 0 (no interpolation)
+5             Netto referentie cloride belasting a.g.v. bemesting (kg Cl/ha/jaar)
+0 30
+1 40
+2 50
+3 60
+4 70
+0             table 4: table-type 0 (no interpolation)
+1             Cloride belasting langs wegen (kg Cl/ha KNOOPINVLOEDSOPPERVLAK/jaar)
+0 5
+
